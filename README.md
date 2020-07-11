@@ -1,1 +1,2 @@
 # NBA-2pt-vs-3pt
+Utilized data cleaning, analysis and visualization with Python to elaborate how team playing styles and player roles changed through four decades as well as relationship between three point and championship with group of two
