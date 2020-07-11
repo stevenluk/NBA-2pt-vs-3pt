@@ -1,2 +1,2 @@
 # NBA-2pt-vs-3pt
-Utilized data cleaning, analysis and visualization with Python to elaborate how team playing styles and player roles changed through four decades as well as relationship between three point and championship with group of two
+NBA Three Points Evolution Trend analysis based on multiple factors (independent variables) with linear-regression model using Python (Pandas and Matplotlib).
