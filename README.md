@@ -31,6 +31,7 @@ How has the skill evolved as seasoned veterans’ game VS. a young player?
 
 Here we decided to investigate veteran players who came into the league from 2005 – 2019 and younger players who came into the league in 2012. What we see is that the veterans are peaking at over 40% and the younger at 30%. Also, there looks to be a decline within the use of the 2pt, given the rise in 3pt. 
 
+![Veterans   Younger 3 vs 2](https://user-images.githubusercontent.com/59676112/91521309-5cb83980-e8c5-11ea-801c-307b3a16674b.PNG)
 
 Further, the veterans are averaging and attempting more than the younger group. Both graphs display a dip, but looking closer at the data, after 2018 we see that there is a significant decline in the amount of minutes played in the latter part of the veterans year. Veterans losing more than 6 mins on the court by 2019. The younger players only lost about a minute. We concluded that veterans are focusing more attention than the younger players are, and this could be closely related to the longevity of their careers.
 
