@@ -1,15 +1,15 @@
 # NBA-2pt-vs-3pt
 NBA Three Points Evolution Trend analysis based on multiple factors (independent variables) with linear-regression model using Python (Pandas and Matplotlib).
 
-We wanted to look at the evolutionary trend within the NBA, specifically how the use of the 3pt. has changed since it's been implemented. Players used to attempt to score closer to the basketball rim In order to ensure higher accuracy, but it’s been confirmed by sports analysts that players are attempting and making more 3pt. through the years and the league has been in talks of creating a 4pt perimeter on the basketball court. 
+We wanted to look at the evolutionary trend within the NBA, specifically how the use of the 3pt. has changed since it's been implemented. Players used to attempt to score closer proximity in order to ensure higher accuracy, but it’s been confirmed by sports analysts that players are attempting and making more 3pt shots throughout the years and the league has been in talks of creating a 4pt perimeter on the basketball court. 
 
-Our Questions
+# Our Questions
 
-1.	How have team attempts and percentages changed throughout the decades?
+1.	How has the league overall attempts and percentages changed throughout the decades?
 2.	What is the relationship between the 3pt. and a championship caliber team?
 3.	How have player roles changed through the years due to the 3pt?
 
-Three Point Change in Decades.
+# Three Point Change in Decades.
 
 We used the NBA final data from 1980 to 2018, showcasing 4 decades. Using both the NBA final winner and the runner up we can see with the graphs below that there as significant increases in 3pt attempts and percentages.
 
@@ -27,7 +27,7 @@ The Graph below displays 3pt made throughout the years for the Finals along with
 
 ![3pt Percentage Through Years For Finals](https://user-images.githubusercontent.com/59676112/91520816-38a82880-e8c4-11ea-9696-fad84d90af4e.png)
 
-How has the skill evolved as seasoned veterans’ game VS. a young player?
+# How has the skill evolved as seasoned veterans’ game VS. a young player?
 
 Here we decided to investigate veteran players who came into the league from 2005 – 2019 and younger players who came into the league in 2012. What we see is that the veterans are peaking at over 40% and the younger at 30%. Also, there looks to be a decline within the use of the 2pt, given the rise in 3pt. 
 
@@ -41,7 +41,7 @@ Further, the veterans are averaging and attempting more than the younger group. 
 
 ![Veterans   Younger made ratio](https://user-images.githubusercontent.com/59676112/91521174-1236bd00-e8c5-11ea-85bc-db1a6d752f90.PNG)
 
-Centers and Power Forwards – How have these roles changed?
+# Centers and Power Forwards – How have these roles changed?
 
 We also wanted to look at the roles of certain players – specifically players who in the 80s and 90s would always stay in the paint and never step foot around the perimeter. Below we can see that after 2015 there is a sharp incline with Centers and PF attempts and made shots (over 4000 attempts and a little over half of those are made) – 35% from the 3 which is a good average for an effective shooter.
 
