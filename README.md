@@ -1,7 +1,7 @@
 # NBA-2pt-vs-3pt
 NBA Three Points Evolution Trend analysis based on multiple factors (independent variables) with linear-regression model using Python (Pandas and Matplotlib).
 
-We wanted to look at the evolutionary trend within the NBA, specifically how the use of the 3pt. has changed since it's been implemented. Players used to attempt to score closer proximity in order to ensure higher accuracy, but it’s been confirmed by sports analysts that players are attempting and making more 3pt shots throughout the years and the league has been in talks of creating a 4pt perimeter on the basketball court. 
+We wanted to look at the evolutionary trend within the NBA, specifically how the use of the 3pt. has changed since it's been implemented. Players used to attempt to score closer proximity in order to ensure higher accuracy, but it’s been confirmed by sports analysts that players are attempting and making more 3pt shots throughout the years and the league has been in talks of creating a 4pt perimeter on the basketball court.
 
 # Our Questions
 
@@ -21,7 +21,7 @@ The below linear regression model displays the year by year 3pt attempt. Here we
 
 ![attemptforeachyear](https://user-images.githubusercontent.com/59676112/91517188-3b525000-e8bb-11ea-83f3-d5763000bece.png)
 
-The Graph below displays 3pt made throughout the years for the Finals along with their Percentages. Blue bars representing championship team and orange the runner up team. What we see here is that championship teams have both higher percentages and made shots. We were able to conclude here that the 3pt is one important factor that determines the championship however, there are a few years such as 1997, 2011 and 2016 where the runner up team had high stats for both, so we can’t say that it’s the sole factor.
+The graph below displays 3pt made throughout the years for the Finals along with their Percentages. Blue bars representing championship team and orange the runner up team. What we see here is that championship teams have both higher percentages and made shots. We were able to conclude here that the 3pt is one important factor that determines the championship however, there are a few years such as 1997, 2011 and 2016 where the runner up team had high stats for both, so we can’t say that it’s the sole factor.
 
 ![3pt Made Through Years For Finals](https://user-images.githubusercontent.com/59676112/91520779-1e6e4a80-e8c4-11ea-98aa-d3e58ee89ba7.png)
 
